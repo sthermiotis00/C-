@@ -1,0 +1,45 @@
+C:\Users\Stelios Thermiotis\Desktop\Unipi\C#\ergasia\ergasia\bin\Debug\ergasia.exe.config
+C:\Users\Stelios Thermiotis\Desktop\Unipi\C#\ergasia\ergasia\bin\Debug\ergasia.exe
+C:\Users\Stelios Thermiotis\Desktop\Unipi\C#\ergasia\ergasia\bin\Debug\ergasia.pdb
+C:\Users\Stelios Thermiotis\Desktop\Unipi\C#\ergasia\ergasia\obj\Debug\ergasia.csprojAssemblyReference.cache
+C:\Users\Stelios Thermiotis\Desktop\Unipi\C#\ergasia\ergasia\obj\Debug\ergasia.Home.resources
+C:\Users\Stelios Thermiotis\Desktop\Unipi\C#\ergasia\ergasia\obj\Debug\ergasia.Properties.Resources.resources
+C:\Users\Stelios Thermiotis\Desktop\Unipi\C#\ergasia\ergasia\obj\Debug\ergasia.csproj.GenerateResource.cache
+C:\Users\Stelios Thermiotis\Desktop\Unipi\C#\ergasia\ergasia\obj\Debug\ergasia.csproj.CoreCompileInputs.cache
+C:\Users\Stelios Thermiotis\Desktop\Unipi\C#\ergasia\ergasia\obj\Debug\ergasia.exe
+C:\Users\Stelios Thermiotis\Desktop\Unipi\C#\ergasia\ergasia\obj\Debug\ergasia.pdb
+C:\Users\Stelios Thermiotis\Desktop\Unipi\C#\ergasia\ergasia\obj\Debug\ergasia.Main.resources
+C:\Users\Stelios Thermiotis\Desktop\Unipi\C#\ergasia\ergasia\obj\Debug\ergasia.GameLevel1.resources
+C:\Users\Stelios Thermiotis\Desktop\Unipi\C#\ergasia\ergasia\obj\Debug\ergasia.GameLevel2.resources
+C:\Users\Stelios Thermiotis\Desktop\Unipi\C#\ergasia\ergasia\obj\Debug\ergasia.GameLevel3.resources
+C:\Users\Stelios Thermiotis\Desktop\Unipi\C#\ergasia\ergasia\obj\Debug\ergasia.Help.resources
+C:\Users\Stelios Thermiotis\Desktop\Unipi\C#\Ergasia 1(Zaria)\ergasia\bin\Debug\ergasia.exe.config
+C:\Users\Stelios Thermiotis\Desktop\Unipi\C#\Ergasia 1(Zaria)\ergasia\bin\Debug\ergasia.exe
+C:\Users\Stelios Thermiotis\Desktop\Unipi\C#\Ergasia 1(Zaria)\ergasia\bin\Debug\ergasia.pdb
+C:\Users\Stelios Thermiotis\Desktop\Unipi\C#\Ergasia 1(Zaria)\ergasia\obj\Debug\ergasia.csprojAssemblyReference.cache
+C:\Users\Stelios Thermiotis\Desktop\Unipi\C#\Ergasia 1(Zaria)\ergasia\obj\Debug\ergasia.GameLevel1.resources
+C:\Users\Stelios Thermiotis\Desktop\Unipi\C#\Ergasia 1(Zaria)\ergasia\obj\Debug\ergasia.GameLevel2.resources
+C:\Users\Stelios Thermiotis\Desktop\Unipi\C#\Ergasia 1(Zaria)\ergasia\obj\Debug\ergasia.GameLevel3.resources
+C:\Users\Stelios Thermiotis\Desktop\Unipi\C#\Ergasia 1(Zaria)\ergasia\obj\Debug\ergasia.Home.resources
+C:\Users\Stelios Thermiotis\Desktop\Unipi\C#\Ergasia 1(Zaria)\ergasia\obj\Debug\ergasia.Main.resources
+C:\Users\Stelios Thermiotis\Desktop\Unipi\C#\Ergasia 1(Zaria)\ergasia\obj\Debug\ergasia.Properties.Resources.resources
+C:\Users\Stelios Thermiotis\Desktop\Unipi\C#\Ergasia 1(Zaria)\ergasia\obj\Debug\ergasia.Help.resources
+C:\Users\Stelios Thermiotis\Desktop\Unipi\C#\Ergasia 1(Zaria)\ergasia\obj\Debug\ergasia.csproj.GenerateResource.cache
+C:\Users\Stelios Thermiotis\Desktop\Unipi\C#\Ergasia 1(Zaria)\ergasia\obj\Debug\ergasia.csproj.CoreCompileInputs.cache
+C:\Users\Stelios Thermiotis\Desktop\Unipi\C#\Ergasia 1(Zaria)\ergasia\obj\Debug\ergasia.exe
+C:\Users\Stelios Thermiotis\Desktop\Unipi\C#\Ergasia 1(Zaria)\ergasia\obj\Debug\ergasia.pdb
+C:\Users\Stelios Thermiotis\Desktop\Unipi\GitHub\C#\Dice\ergasia\bin\Debug\ergasia.exe.config
+C:\Users\Stelios Thermiotis\Desktop\Unipi\GitHub\C#\Dice\ergasia\bin\Debug\ergasia.exe
+C:\Users\Stelios Thermiotis\Desktop\Unipi\GitHub\C#\Dice\ergasia\bin\Debug\ergasia.pdb
+C:\Users\Stelios Thermiotis\Desktop\Unipi\GitHub\C#\Dice\ergasia\obj\Debug\ergasia.csprojAssemblyReference.cache
+C:\Users\Stelios Thermiotis\Desktop\Unipi\GitHub\C#\Dice\ergasia\obj\Debug\ergasia.GameLevel1.resources
+C:\Users\Stelios Thermiotis\Desktop\Unipi\GitHub\C#\Dice\ergasia\obj\Debug\ergasia.GameLevel2.resources
+C:\Users\Stelios Thermiotis\Desktop\Unipi\GitHub\C#\Dice\ergasia\obj\Debug\ergasia.GameLevel3.resources
+C:\Users\Stelios Thermiotis\Desktop\Unipi\GitHub\C#\Dice\ergasia\obj\Debug\ergasia.Home.resources
+C:\Users\Stelios Thermiotis\Desktop\Unipi\GitHub\C#\Dice\ergasia\obj\Debug\ergasia.Main.resources
+C:\Users\Stelios Thermiotis\Desktop\Unipi\GitHub\C#\Dice\ergasia\obj\Debug\ergasia.Properties.Resources.resources
+C:\Users\Stelios Thermiotis\Desktop\Unipi\GitHub\C#\Dice\ergasia\obj\Debug\ergasia.Help.resources
+C:\Users\Stelios Thermiotis\Desktop\Unipi\GitHub\C#\Dice\ergasia\obj\Debug\ergasia.csproj.GenerateResource.cache
+C:\Users\Stelios Thermiotis\Desktop\Unipi\GitHub\C#\Dice\ergasia\obj\Debug\ergasia.csproj.CoreCompileInputs.cache
+C:\Users\Stelios Thermiotis\Desktop\Unipi\GitHub\C#\Dice\ergasia\obj\Debug\ergasia.exe
+C:\Users\Stelios Thermiotis\Desktop\Unipi\GitHub\C#\Dice\ergasia\obj\Debug\ergasia.pdb
