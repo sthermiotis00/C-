@@ -1,0 +1,17 @@
+C:\Users\Stelios Thermiotis\Desktop\ergasia 2\ergasia 2\bin\Debug\ergasia 2.exe.config
+C:\Users\Stelios Thermiotis\Desktop\ergasia 2\ergasia 2\bin\Debug\ergasia 2.exe
+C:\Users\Stelios Thermiotis\Desktop\ergasia 2\ergasia 2\bin\Debug\ergasia 2.pdb
+C:\Users\Stelios Thermiotis\Desktop\ergasia 2\ergasia 2\obj\Debug\ergasia 2.csprojAssemblyReference.cache
+C:\Users\Stelios Thermiotis\Desktop\ergasia 2\ergasia 2\obj\Debug\ergasia_2.Form1.resources
+C:\Users\Stelios Thermiotis\Desktop\ergasia 2\ergasia 2\obj\Debug\ergasia_2.Properties.Resources.resources
+C:\Users\Stelios Thermiotis\Desktop\ergasia 2\ergasia 2\obj\Debug\ergasia 2.csproj.GenerateResource.cache
+C:\Users\Stelios Thermiotis\Desktop\ergasia 2\ergasia 2\obj\Debug\ergasia 2.csproj.CoreCompileInputs.cache
+C:\Users\Stelios Thermiotis\Desktop\ergasia 2\ergasia 2\obj\Debug\ergasia 2.exe
+C:\Users\Stelios Thermiotis\Desktop\ergasia 2\ergasia 2\obj\Debug\ergasia 2.pdb
+C:\Users\Stelios Thermiotis\Desktop\Unipi\C#\Ergasia 2(Draw)\ergasia 2\obj\Debug\ergasia 2.csprojAssemblyReference.cache
+C:\Users\Stelios Thermiotis\Desktop\Unipi\C#\Ergasia 2(Draw)\ergasia 2\obj\Debug\ergasia_2.Form1.resources
+C:\Users\Stelios Thermiotis\Desktop\Unipi\C#\Ergasia 2(Draw)\ergasia 2\obj\Debug\ergasia_2.Properties.Resources.resources
+C:\Users\Stelios Thermiotis\Desktop\Unipi\C#\Ergasia 2(Draw)\ergasia 2\obj\Debug\ergasia 2.csproj.GenerateResource.cache
+C:\Users\Stelios Thermiotis\Desktop\Unipi\C#\Ergasia 2(Draw)\ergasia 2\obj\Debug\ergasia 2.csproj.CoreCompileInputs.cache
+C:\Users\Stelios Thermiotis\Desktop\Unipi\C#\Ergasia 2(Draw)\ergasia 2\obj\Debug\ergasia 2.exe
+C:\Users\Stelios Thermiotis\Desktop\Unipi\C#\Ergasia 2(Draw)\ergasia 2\obj\Debug\ergasia 2.pdb
